@@ -1,0 +1,6 @@
+framework module Pods_agenda {
+  umbrella header "Pods-agenda-umbrella.h"
+
+  export *
+  module * { export * }
+}
